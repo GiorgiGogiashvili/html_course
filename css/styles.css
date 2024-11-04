@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(61, 56, 105);
+    font-family: 'Montserrat', sans-serif;
+    color: #161339;
+}
+
+.main-header {
+    display:block;
+    background-color: rgb(135, 116, 220);
+    border-radius: 5px;
+
+}
+
+.main {
+    text-align: center
+}
+
+.main-home {
+    text-align: center
+}
+
+.main-about {
+    text-align: center
+}
+
+.main-gallery {
+    text-align: center
+}
+
+::selection {
+    background-color: #2f2a7b;
+    color: white;
+}
